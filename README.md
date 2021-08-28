@@ -1,2 +1,2 @@
 # responsive-website
-Responsive eb design
+Responsive web design
